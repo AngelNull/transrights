@@ -30,7 +30,7 @@ If you would like to suggest any of the following, or anything else, create an [
 If you encounter a bug while using the website, like an incorrect redirect or a page loading incorrectly, create an [issue](https://github.com/angelicaldev/transrights/issues/new/choose) under the bug report label.
 
 ## Licensing
-This website is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/), © [AngelicalDev](https://github.com/angelicaldev/) 2020
+This website is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](https://creativecommons.org/licenses/by-nc-sa/3.0/), © [AngelNull](https://github.com/angelnull/) 2021
 
 ### Reasoning
 This license has been chosen is that I would love for this website to be changed, reshared and more, but never want it to be paywalled or used for commercial use.

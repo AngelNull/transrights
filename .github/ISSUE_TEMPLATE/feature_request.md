@@ -1,7 +1,7 @@
 ---
 name: Enhancement Request
 about: Suggest a change for the project.
-title: 'ENHANCE:: '
+title: 'ENHANCE: '
 labels: enhancement
 ---
 ## Summary

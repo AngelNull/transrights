@@ -1094,7 +1094,7 @@ section.lazy-placeholder:after {
 }
 .cid-slXD1wf6Tx {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 105px;
   background-color: #0f0f0f;
 }
 .cid-slXD1wf6Tx h4 {
@@ -1623,8 +1623,8 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-si9c4DVZQQ {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #0f0f0f;
 }
 .cid-si9c4DVZQQ .card-box {
@@ -3350,34 +3350,22 @@ section.lazy-placeholder:after {
 }
 .cid-si9dV9DEkt {
   padding-top: 105px;
-  padding-bottom: 60px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/external-content.duckduckgo.com-680x383.png");
 }
-.cid-si9dDrlf5c {
-  padding-top: 30px;
-  padding-bottom: 45px;
+.cid-srCzvweuGq {
+  padding-top: 105px;
+  padding-bottom: 120px;
   background-color: #0f0f0f;
 }
-.cid-si9dDrlf5c .title {
-  margin-bottom: 2rem;
+.cid-srCzvweuGq .mbr-text,
+.cid-srCzvweuGq blockquote {
+  color: #767676;
 }
-.cid-si9dDrlf5c .mbr-section-subtitle {
-  color: #efefef;
+.cid-srCzvweuGq .mbr-text P {
+  text-align: center;
 }
-.cid-si9dDrlf5c a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-si9dDrlf5c a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-si9dDrlf5c textarea.form-control {
-  min-height: 188px;
-}
-.cid-si9dDrlf5c H2 {
-  color: #ffffff;
-}
-.cid-si9dDrlf5c LABEL {
+.cid-srCzvweuGq .mbr-text {
   color: #efefef;
 }
 .cid-shXx9BhwQp {

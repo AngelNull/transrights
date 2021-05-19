@@ -1,0 +1,16 @@
+name: Archival Notice
+
+on: [pull_request, issues]
+
+jobs:
+  Inform:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Thank you for your contribution, please note at this time this project is not actively maintained and as such it may take longer to recieve a response.'
+        pr-message: 'Thank you for your contribution, please note at this time this project is not actively maintained and as such it may take longer to recieve a response.'

@@ -1,6 +1,14 @@
 # Transgender* Rights - Website
 
+---
+
+### Notice  
+This project is not currently actively maintained, and may be archived in the future in favour of an entirely new project taking it's place to forfill it's purpose. Until then, it is likely to remain untouched. Issues & PRs will still be looked into. 
+
+---
+
 This website is intended for the transgender* community and allies in order to find a useful source of information. It contains a lot of valuable information and covers important topics like
+
 - How to be an effective ally
 - Charities & Funding
 - Videos & Guides

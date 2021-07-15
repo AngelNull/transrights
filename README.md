@@ -3,7 +3,7 @@
 ---
 
 ### Notice  
-This project is not currently actively maintained, and may be archived in the future in favour of an entirely new project taking it's place to forfill it's purpose. Until then, it is likely to remain untouched. Issues & PRs will still be looked into. 
+This project has been archived and is no longer maintained or updated. 
 
 ---
 
